@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591788793207",
+    "project_id": "wildcam-8df41",
+    "storage_bucket": "wildcam-8df41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591788793207:android:ff7c602a0624d6201dd572",
+        "android_client_info": {
+          "package_name": "com.tezreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591788793207-u3mqhtqjavq3fqdbv2s3390061vhicr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAzYYDo0SvuULg6Ei2cWvAoKa5hd3NatY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591788793207-u3mqhtqjavq3fqdbv2s3390061vhicr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
